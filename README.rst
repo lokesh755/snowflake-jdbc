@@ -32,6 +32,7 @@ Add following code block as a dependency
       <version>{version}</version>
     </dependency>
 
+-- To create dummy PR to test actions
 
 Build from Source Code 
 ----------------------
